@@ -1,7 +1,7 @@
 # ai-on-the-edge-cam-hw-description
 This repo contains schematics and dimensions for the Ai-On-The-Edge-Cam board. 
-![images/withshuttle.jpg](Board with lora-shuttle shield on top)
-![images/dimensions.jpg](Board dimensions)
+![Board with lora-shuttle shield on top](images/withshuttle.jpg)
+![Board dimensions](images/dimensions.jpg)
 More resources:
 - [Arduino IDE & Platformio examples](https://github.com/allexoK/ai-on-the-edge-device-cam-code-examples)
 - [Hackaday project](https://hackaday.io/project/203879-ai-on-the-edge-cam)
